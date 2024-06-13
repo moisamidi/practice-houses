@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ycAJQyd5PMImxGV/lvL4qsZIfDNy7h3NAqUrMp4ddyE=",
+  "Source": "HousingApi",
+  "BasePath": "_content/HousingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
