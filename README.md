@@ -39,3 +39,8 @@ To run the backend, navigate to the `HousingApi` directory and execute:
 ```
 dotnet run
 ```
+### Frontend
+To run the frontend, navigate to the src directory and execute:
+```
+ng serve
+```
